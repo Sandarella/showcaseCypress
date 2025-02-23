@@ -1,0 +1,7 @@
+# Cypress
+node_modules/
+/test-results/
+/cypress-report/
+/blob-report/
+/cypress/.cache/
+.DS_Store 
